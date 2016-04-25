@@ -1,2 +1,2 @@
 # intel-hex-to-bin
-Demo with Intel HEX to binary file converter
+Demo Intel HEX to binary file converter
